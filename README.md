@@ -51,6 +51,11 @@
 
 - void update(Block b)
   Block 객체를 파라미터로 받아와 변조로 인해 201로 수정되었던 Block의 secret_code 를 원상태로 되돌립니다. 
+  
+#### UML 도식화
+![image](https://user-images.githubusercontent.com/90627763/169973673-0af686cb-bc31-4b76-896d-bb5f572db066.png)
+
+
   <hr>
 
 #### [참고 자료 ]
